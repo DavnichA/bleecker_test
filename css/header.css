@@ -336,3 +336,29 @@ input.switch + label:before, input.switch + label:after {
     width: 100%;
 }
 
+/* input search */
+.search {
+    width: 682px;
+}
+
+.search-bar {
+    height: 40px;
+    padding: 0 10px;
+    font-size: 1rem;
+    outline: none;
+    border-radius: 3px;
+    background-image: url("../img/Vector.svg");
+    background-position: 98% 50%;
+    background-size: 15px 15px;
+    background-repeat: no-repeat;
+    border: none;
+    transition: 0.3s all ease-out;
+    width: 600px;
+}
+
+/* shoping cart */
+.shopping-cart {
+    background-color: #1965B3;
+    width: 80px;
+    height: 40px;
+}
