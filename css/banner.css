@@ -1,0 +1,75 @@
+.banner-wrap {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.banner {
+    width: 77.55%;
+    height: 280px;
+    margin-top: 20px;
+    background-image: url("../img/banner/back.jpg");
+    background-size: cover;
+    border-radius: 3px;
+    color: #ffff;
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    justify-content: space-between;
+}
+
+.banner-headline {
+    display: flex;
+    flex-direction: column;
+    padding-left: 61px;
+}
+
+.banner-headline h2 {
+    width: 485px;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 40px;
+    padding-top: 27px;
+}
+.banner-headline h2>span {
+    color: red;
+    text-transform: uppercase;
+}
+
+.banner-headline p {
+    padding-top: 10px;
+    width: 286px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+}
+
+.banner-btn {
+    padding-top: 30px;
+}
+
+.banner-btn button {
+    width: 160px;
+    height: 50px;
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 3px;
+    background-color: Transparent;
+    cursor: pointer;
+}
+
+.banner-btn button:hover {
+    background-color: rgba(255, 255, 255, .2);
+}
+
+.drill {
+    background-image: url("../img/banner/red-back.png");
+    height: 100%;
+    width: 52%;
+}
+
+.drill img {
+    position: absolute;
+    padding-top: 40px;
+    right: 300px;
+}
