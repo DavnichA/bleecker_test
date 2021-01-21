@@ -1,23 +1,23 @@
 
 header {
     background-color: #0054AA;
-    width: 100vw;
-    height: 120px;
+    width: 100vw ;
+    height: 120px ;
 }
 
 .header-wrap {
-    padding: 0 11.45%;
+    padding: 0 11.45% ;
     display: flex;
     flex-direction: column;
     font-family: 'Open Sans', sans-serif;
 }
 
 .top-part-header, .bottom-part-header {
-    display: flex;
-    align-items: center;
+    display: flex ;
+    align-items: center ;
 }
 .top-part-header {
-    margin-top: 25px;
+    margin-top: 25px ;
     justify-content: space-between;
 }
     /* --------- top part header ---------*/
@@ -39,7 +39,7 @@ header {
 
 .navigation>ul>li {
     list-style-type: none;
-    padding-left: 10px;
+    padding-left: 10px ;
 }
 
 .navigation>ul>li>a {
@@ -63,7 +63,7 @@ header {
 
 /* switchy checkbox */
 .language form {
-    position: relative;
+    position: relative ;
 }
 .language {
     display: flex;
@@ -74,8 +74,8 @@ header {
     position: absolute;
 }
 .switch + label {
-    display: block;
-    position: relative;
+    display: block ;
+    position: relative ;
     cursor: pointer;
     outline: none;
     width: 24px;
@@ -123,16 +123,23 @@ input.switch + label:before, input.switch + label:after {
 /* dropdown menu for tel number */
 
 .dropdown {
-    position: relative;
+    position: relative !important;
 }
-.dropdown a {
+.dropdown pre{
+    color: #ffff;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+}
+.dropdown a,pre {
+    font-family: 'Open Sans', sans-serif;
     color: #ffff;
     text-decoration: none;
     font-weight: 700;
     font-size: 16px;
 }
 .arrow-down {
-    font-size: 8px;
+    font-size: 8px !important;
 }
 
 .dropdown-content {

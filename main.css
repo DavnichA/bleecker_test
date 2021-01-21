@@ -4,9 +4,14 @@
 @import './css/header.css';
 @import './css/banner.css';
 @import './css/popular_categories.css';
+@import './css/new.css';
 
 * {
     margin: 0;
     padding: 0;
+    
+}
+*, ::after, ::before {
+    box-sizing: inherit;
 }
 

@@ -41,9 +41,11 @@
 
 .card-group {
     margin-left: 20px;
+    display: flex;
+    flex-direction: column
 }
 .card-group p {
-    width: 133px;
+    width: 136px;
     margin-top: 20px;
     font-size: 16px;
     line-height: 20px;
