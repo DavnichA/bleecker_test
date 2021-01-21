@@ -1,0 +1,65 @@
+.our-company {
+    position: relative;
+    width: 100%;
+    display: flex;
+}
+
+.our-backdrop {
+    background-image: url("../img/our_back.jpg");
+    width: 830px;
+    height: 540px;
+    border-radius: 3px 0px 0px 3px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    margin-top: 50px;
+    transform: rotate(360deg);
+}
+
+.our-description {
+    position: absolute;
+    left: 645px;
+    top: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 630px;
+    height: 460px;
+    background-color: #F3F7FC;
+    border-radius: 3px;
+}
+
+.our-head, .our-text {
+    padding-left: 50px;
+    padding-right: 40px;
+}
+
+.our-head {
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 600;
+    font-style: normal;
+    color: #040F0F;
+}
+
+.our-text {
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    font-style: normal;
+    color: #4F5757;
+}
+.our-link {
+    display: flex;
+    padding-left: 25px;
+}
+.our-link>a, .our-link>span{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: normal;
+    font-style: normal;
+    color: #135DBC;
+}
+
+.our-link>span {
+    margin-left: 3px;
+    cursor: pointer;
+}
