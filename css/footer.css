@@ -1,0 +1,120 @@
+footer {
+    width: 100vw;
+    height: 300px;
+    background-color: #00478F;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.right-side {
+    background-color: #0054AA;
+    width: 35.76%;
+}
+
+.f-r-wrap {
+    margin-top: 50px;
+    margin-left: 11.65%
+}
+
+.f-r-wrap h3{
+    font-style: normal;
+    font-weight: 600;
+    line-height: 2,0625rem;
+    font-size: 1.75rem;
+}
+
+.f-r-buy {
+    color: rgba(255, 255, 255, 0.7);
+    font-style: normal;
+    line-height: 1,125rem;
+    font-size: 0.75rem;
+    margin-top: 10px;
+}
+
+.f-r-group {
+    margin-top: 4.6%
+}
+
+.f-mail {
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1,125rem;
+    font-size: 0,875rem;
+    padding-bottom: 10px;
+}
+
+.f-r-phone {
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1,625rem;
+    font-size: 1rem;
+}
+
+/* ------------------------- */
+
+.left-side {
+    display: flex;
+    justify-content: space-evenly;
+    width: 64.24%;
+}
+
+.f-copyright {
+    width: 33.08%;
+    margin-left: 17.51%;
+    margin-top: 50px;
+}
+
+.f-info {
+    width: 17.67%;
+    margin-top: 50px;
+}
+
+.f-useful {
+    width: 12.64%;
+    margin-top: 50px;
+}
+
+.f-info h3, .f-useful h3 {
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1,625rem;
+    font-size: 1rem;
+}
+
+.f-link-group {
+    margin-top: 20px;
+}
+
+.f-link-group a {
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1,875rem;
+    font-size: 0.875rem;
+    color: rgba(255, 255, 255, 0.7);
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.f-copyright h2{
+    font-size: 1,4375rem;
+}
+
+.f-copyright>p {
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    font-size: 0.74rem;
+    margin-top: 36px;
+}
+
+.f-pay-system {
+    margin-top: 20px;
+}
+
+.f-pay-system span {
+    font-weight: 400;
+    line-height: 18px;
+    font-size: 0.75rem;
+}

@@ -6,6 +6,8 @@
     <title>Bleecker test</title>
     <link rel="stylesheet" href="./bootstrap-4.0.0-dist/css/bootstrap.css">
     <link rel="stylesheet" href="./main.css">
+    <link rel="stylesheet" href="/OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="/OwlCarousel2-2.3.4/dist/assets/owl.theme.default.min.css">
 </head>
 <body>
     <!-- header -->
@@ -542,11 +544,102 @@
                 </div>
             </div>
         </div>
+        <!-- news -->
+        <div class="news">
+
+            <div class="news-info-control">
+                <h2>Новости и статьи</h2>
+                <p>Изучай новые инструменты и лайфхаки для создания или ремонта своего дома, улучешние бизнеса, продвижения компании.</p>
+                <a class="left carousel-control-prev" id="info-c-p" href="#carousel_info" role="button" data-slide="prev"> < </a>
+                <a class="right carousel-control-next" id="info-c-n" href="#carousel_info" role="button" data-slide="next"> > </a>
+            </div>
+
+            <div class="news-carousel">
+                <div class="owl-carousel owl-theme news-wrapper">
+                    <div class="item">
+                        <div class="item-wrapper" id="im-1">
+                            <a href="#">
+                                <p class="news-head">Выбор абразивного материала, зернистость круга, твердость</p>
+                                <div class="news-data">
+                                    <div class="news-data-ico"></div>
+                                    <span>2 ноября 2020 г.</span>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="item-wrapper" id="im-2">
+                            <a href="#">
+                                <p class="news-head">Твердые сплавы - основные свойства, классификация, область применения</p>
+                                <div class="news-data">
+                                    <div class="news-data-ico"></div>
+                                    <span>29 октября 2020 г.</span>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="item-wrapper" id="im-3">
+                            <a href="#">
+                                <p class="news-head">Инструментальные стали</p>
+                                <div class="news-data">
+                                    <div class="news-data-ico"></div>
+                                    <span>28 октября 2020 г.</span>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
     </main>
+    <footer>
+        <div class="left-side">
+            <div class="f-copyright">
+                <h2>КОМПАНИЯ ИНСТРУМЕНТ</h2>
+                <p>© 2021 Название компании. Все права защищены</p>
+                <div class="f-pay-system">
+                    <span>Мы принимаем:</span>
+                    <img src="/img/visa.png" alt="visa">
+                    <img src="/img/g13.png" alt="g13">
+                </div>
+            </div>
+            <div class="f-info">
+                <h3>Информация</h3>
+                <div class="f-link-group">
+                    <a href="#">О компании</a>
+                    <a href="#">Производители</a>
+                    <a href="#">Контакты</a>
+                </div>
+            </div>
+            <div class="f-useful">
+                <h3>Полезное</h3>
+                <div class="f-link-group">
+                    <a href="#">Оплата заказа</a>
+                    <a href="#">Обмен и возврат</a>
+                    <a href="#">Доставка</a>
+                    <a href="#">Статьи</a>
+                </div>
+            </div>
+        </div>
+        <div class="right-side">
+            <div class="f-r-wrap">
+                <h3>094 986 29 18</h3>
+                <p class="f-r-buy">Заказать или оформить покупку</p>
+                <div class="f-r-group">
+                    <p class="f-mail">office@company.ua</p>
+                    <p class="f-r-phone">050 711 88 43</p>
+                    <p class="f-r-phone">067 647 91 71</p>
+                </div>
+            </div>
+        </div>
+    </footer>
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="/bootstrap-4.0.0-dist/js/bootstrap.min.js"></script>
+    <script src="/OwlCarousel2-2.3.4/dist/owl.carousel.min.js"></script>
     <script src="/script.js"></script>
 </body>
 </html>

@@ -8,6 +8,8 @@
 @import './css/manufacturer.css';
 @import './css/our_cpmpany.css';
 @import './css/info_order.css';
+@import './css/news.css';
+@import './css/footer.css';
 
 * {
     margin: 0;
