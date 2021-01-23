@@ -127,7 +127,7 @@
 }
 .n-img-cart {
     display: inline-block;
-    background-image: url("/img/new/new-cart.svg");
+    background-image: url("../img/new/new-cart.svg");
     width: 20px;
     height: 18px;
 }

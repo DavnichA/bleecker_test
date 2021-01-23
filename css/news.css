@@ -91,13 +91,13 @@
 
 
 #im-1 {
-    background-image: url("/img/news/img1.jpg")
+    background-image: url("../img/news/img1.jpg")
 }
 #im-2 {
-    background-image: url("/img/news/img2.jpg")
+    background-image: url("../img/news/img2.jpg")
 }
 #im-3 {
-    background-image: url("/img/news/img3.jpg")
+    background-image: url("../img/news/img3.jpg")
 }
 
 .news-wrapper {
@@ -150,7 +150,7 @@
     line-height: 20px;
 }
 .news-data-ico {
-    background-image: url("/img/news/time-line.svg");
+    background-image: url("../img/news/time-line.svg");
     width: 16px;
     height: 16px;
     background-repeat: no-repeat;
