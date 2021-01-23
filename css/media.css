@@ -1,0 +1,426 @@
+@media (max-width: 1920px) {
+    .navigation {
+        margin-left: 24px;
+    }
+
+    .drill {
+        background-size: cover;
+    }
+
+    .drill img {
+        right: 500px;
+    }
+
+    .card {
+        width: 296px;
+    }
+
+    #c-1 {
+        left: 169px;
+    }
+    #c-2 {
+        left: 178px;
+    }
+    #c-3 {
+        left: 125px;
+    }
+    #c-4 {
+        left: 144px;
+    }
+    #c-5 {
+        left: 144px;
+    }
+    #c-6 {
+        left: 144px;
+    }
+    #c-7 {
+        left: 202px;
+    }
+    #c-8 {
+        left: 139px;
+    }
+
+    .man-item {
+        width: 213px;
+    }
+
+    .our-description {
+        width: 878px;
+        left: 826px;
+    }
+
+    .our-backdrop {
+        width: 960px;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .info-order-wrap {
+        margin-left: 26.51%;
+    }
+
+    .news-carousel {
+        width: 1336px;
+    }
+}
+
+@media (max-width: 1680px) {
+    .navigation {
+        margin-left: -15px;
+    }
+
+    .drill {
+        background-size: cover;
+    }
+
+    .drill img {
+        right: 425px;
+    }
+
+    .card {
+        width: 296px;
+    }
+
+    #c-1 {
+        left: 169px;
+    }
+    #c-2 {
+        left: 178px;
+    }
+    #c-3 {
+        left: 125px;
+    }
+    #c-4 {
+        left: 144px;
+    }
+    #c-5 {
+        left: 144px;
+    }
+    #c-6 {
+        left: 144px;
+    }
+    #c-7 {
+        left: 202px;
+    }
+    #c-8 {
+        left: 139px;
+    }
+
+    .man-item {
+        width: 200px;
+    }
+
+    .our-description {
+        width: 719px;
+        left: 778px;
+    }
+
+    .our-backdrop {
+        width: 839px;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .info-order-wrap {
+        margin-left: 23.51%;
+    }
+
+    .news-carousel {
+        width: 1165px;
+    }
+
+    .item-wrapper {
+        width: 405px;
+    }
+}
+
+@media (max-width: 1440px) {
+    .navigation {
+        margin-left: 0;
+    }
+
+    .drill {
+        background-size: cover;
+    }
+
+    .drill img {
+        right: 300px;
+    }
+
+    .card {
+        width: 255px;
+    }
+
+    #c-1 {
+        left: 128px;
+    }
+    #c-2 {
+        left: 138px;
+    }
+    #c-3 {
+        left: 83px;
+    }
+    #c-4 {
+        left: 104px;
+    }
+    #c-5 {
+        left: 103px;
+    }
+    #c-6 {
+        left: 103px;
+    }
+    #c-7 {
+        left: 161px;
+    }
+    #c-8 {
+        left: 101px;
+    }
+
+    .man-item {
+        width: 160px;
+    }
+
+    .our-description {
+        width: 630px;
+        left: 645px;
+    }
+
+    .our-backdrop {
+        width: 830px;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .info-order-wrap {
+        margin-left: 17.51%;
+    }
+
+    .item-wrapper {
+        width: 350px;
+    }
+
+    .news-carousel {
+        width: 925px;
+    }
+}
+
+@media (max-width: 1280px) {
+    .header-wrap {
+        padding: 0 5%;
+    }
+    .banner {
+        width: 90%;
+    }
+
+    .navigation {
+        margin-left: 0;
+    }
+
+    .drill {
+        background-size: cover;
+    }
+
+    .drill img {
+        right: 245px;
+    }
+    .popular-cards {
+        width: 90%;
+    }
+    .card {
+        width: 255px;
+    }
+    #carouselExampleControls {
+        width: 90%;
+    }
+
+    #new-c-p {
+        left: -59px;
+    }
+
+    #new-c-n {
+        right: -59px;
+    }
+
+    #c-1 {
+        left: 128px;
+    }
+    #c-2 {
+        left: 138px;
+    }
+    #c-3 {
+        left: 83px;
+    }
+    #c-4 {
+        left: 104px;
+    }
+    #c-5 {
+        left: 103px;
+    }
+    #c-6 {
+        left: 103px;
+    }
+    #c-7 {
+        left: 161px;
+    }
+    #c-8 {
+        left: 101px;
+    }
+    .manufacturer-wrap {
+        width: 90%;
+    }
+    .man-item {
+        width: 168px;
+    }
+
+    .our-description {
+        width: 630px;
+        left: 611px;
+    }
+
+    .our-backdrop {
+        width: 717px;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .info-order-wrap {
+        margin-left: 12%;
+    }
+    .item-wrapper {
+        width: 311px;
+    }
+    .news-carousel {
+        width: 925px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .header-wrap {
+        padding: 0 0;
+    }
+    .top-part-header h2 {
+        font-size: 18px;
+        margin-left: 4px;
+    }
+    .navigation>ul>li {
+        padding-left: 7px;
+    }
+    .navigation>ul> li:not(:last-child) a:after {
+        padding-left: 7px;
+    }
+    .dropdown {
+        margin-right: 10px;
+    }
+
+    .catalog-active-btn {
+        width: 226px;
+        margin-left: 4px;
+    }
+
+    .search-bar {
+        width: 515px;
+    }
+
+    .shopping-cart {
+        margin-right: 10px;
+    }
+
+    .catalog-lvl-3 {
+        width: 70vw;
+    }
+
+    .banner {
+        width: 100%;
+    }
+
+    .navigation {
+        margin-left: 0;
+    }
+
+    .drill {
+        background-size: cover;
+    }
+
+    .drill img {
+        right: 56px;
+    }
+    .popular-cards {
+        width: 99%;
+    }
+    .card {
+        width: 242px;
+    }
+    #carouselExampleControls {
+        width: 99%;
+    }
+
+    #new-c-p {
+        top: 102%;
+        left: 0px;
+    }
+
+    #new-c-n {
+        top: 102%;
+        right: 88%;
+    }
+    #manu-c-p {
+        left: 88%;
+    }
+    #c-1 {
+        left: 114px;
+    }
+    #c-2 {
+        left: 125px;
+    }
+    #c-3 {
+        left: 71px;
+    }
+    #c-4 {
+        left: 90px;
+    }
+    #c-5 {
+        left: 90px;
+    }
+    #c-6 {
+        left: 90px;
+    }
+    #c-7 {
+        left: 148px;
+    }
+    #c-8 {
+        left: 84px;
+    }
+    .manufacturer-wrap {
+        width: 100%;
+    }
+    .man-item {
+        width: 168px;
+    }
+
+    .our-description {
+        width: 630px;
+        left: 390px;
+    }
+
+    .our-backdrop {
+        width: 717px;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .info-order-wrap {
+        margin-left: 3%;
+    }
+    .item-wrapper {
+        width: 262px;
+    }
+    .news-info-control {
+        margin-left: 10px;
+    }
+    #info-c-n {
+        right: 61%;
+    }
+    .news-carousel {
+        width: 925px;
+    }
+}

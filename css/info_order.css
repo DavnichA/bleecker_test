@@ -1,11 +1,11 @@
 .info-order {
-    width: 100%;
+    width: 100vw;
+    height: 272px;
     display: flex;
-    justify-content: center;
 }
 
 .info-order-wrap {
-    width: 77.55%;
+    margin-left: 17.51%;
     display: flex;
     margin-top: 50px;
 }

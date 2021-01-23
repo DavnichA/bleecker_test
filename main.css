@@ -10,6 +10,8 @@
 @import './css/info_order.css';
 @import './css/news.css';
 @import './css/footer.css';
+@import './css/media.css';
+
 
 * {
     margin: 0;
